@@ -19,7 +19,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: `${profile.name} · ${profile.role}`,
+  title: `${profile.name} portfolio`,
   description: profile.summary,
 };
 
